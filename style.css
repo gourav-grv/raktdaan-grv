@@ -1,0 +1,73 @@
+body {
+            /* background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://3pageplus.com/wp-content/uploads/2019/03/change-background-color-on-wix-1024x678.jpg"); */
+            /* background-color: black; */
+            background-image: url("corona.jpg");
+            background-repeat: repeat;
+            font-family: 'Times New Roman';
+            padding-top: 100px;
+       
+        }
+
+        .nav-link:hover {
+            border: solid;
+            border-radius: 4px;
+            text-align: center;
+            background-color: white;
+            color: black;
+            size: 100%;
+
+        }
+
+        .nav-link {
+            text-decoration: none;
+            color: white;
+        }
+
+        .navbar {
+            background-color: white;
+
+            overflow: hidden;
+            background-color: #333;
+            position: fixed;
+            /* Set the navbar to fixed position */
+            top: 0;
+            /* Position the navbar at the top of the page */
+            width: 100%;
+            z-index: 10;
+        }
+
+        .carousel-caption {
+            z-index: 0;
+        }
+
+        #card {
+            border: solid;
+            border-radius: 40px;
+        }  
+
+       
+
+        
+
+        .c {
+            color: red;
+            font-size: larger;
+
+        }
+
+        .b {
+            font-size: bold;
+        }
+
+        .secpara {
+            color: orange;
+
+        }
+
+        .thirdpara {
+            color: red;
+        }
+
+        .fourthpara {
+            color: rgb(71, 66, 66);
+        }
